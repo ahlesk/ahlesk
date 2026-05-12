@@ -5,7 +5,7 @@
 
 **`Desenvolvedor Backend`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+Alexander!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem+vindo(a)!)](https://git.io/typing-svg)
 
 Tenho 29 anos, sou natural de Belo Horizonte - MG e atualmente moro em São José dos Campos - SP. Sou formado como Técnico em Informática pela ETEC de São José dos Campos e atualmente curso Programação em Banco de Dados na Fatec SJC.
 
