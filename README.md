@@ -1,8 +1,6 @@
-<img
-    alt="banner"
-    title="banner"
-    src="./assets/images/banner.png"
->
+<p align="center">
+  <img src="assets/images/banner.png" alt="Banner" />
+</p>
 # 👨‍💻 **Alexander Silva Lima**
 
 **`Desenvolvedor Backend`**
